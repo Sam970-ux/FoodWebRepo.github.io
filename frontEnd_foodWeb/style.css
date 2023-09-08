@@ -103,9 +103,10 @@ flex-direction: column;
 	
 }
 
-#services{
-	margin:auto;
-	display:flex;
+#services {
+  margin: auto;
+  display: flex;
+  margin-bottom: 80px;
 }
 
 #services .box{
@@ -131,9 +132,8 @@ height: 410px;
 
 }
 /* Client Section */
-#client-section{
-	height:320px;
-	
+#client-section {
+  height: 398px;
 }
 
 #client-section::before{
